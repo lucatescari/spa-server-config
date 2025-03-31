@@ -10,7 +10,7 @@ Angular-SPAs benötigen spezielle Rewrite-Regeln, damit clientseitige Routen auc
 - Nginx (`angular.conf`)
 
 ## Struktur
-- ```apache/.htaccess``` → Für Apache-Server (z. B. Webhosting mit .htaccess-Dateien) 
+- ```apache/.htaccess``` → Für Apache-Server
 - ```nginx/angular.conf``` → Beispielkonfiguration für Nginx-Server
 
 ## Hinweis
